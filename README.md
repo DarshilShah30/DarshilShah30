@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarshilShah30
-- 👀 I’m interested in Software Development.
+- 👀 I’m looking for Software Dev internships/Co-ops for Fall '22.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking for Fall internships/Co-ops.
 - 📫 You can reach me at shah5p@uwindsor.ca
 
 <!---
