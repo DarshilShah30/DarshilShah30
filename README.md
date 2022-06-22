@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshil !!!
-- 🌱 I’m currently learning React and C#.
+- 🌱 I’m currently diving deep into React and C#.
 - 📫 You can reach me at shah5p@uwindsor.ca
 
 <!---
